@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @6felix
-- 👀 I’m interested in android developement, backend dev. and Manga Art!
+- 👀 I’m interested in software development, Artificial Intelligence and Calisthenics
 - 🌱 I’m currently learning Android Development and Software Enginneering
 - 💞️ I’m looking to collaborate on android application projects
 - 📫 How to reach me email: felix.okoronkwo.1@gmail.com
